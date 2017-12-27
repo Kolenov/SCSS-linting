@@ -20,8 +20,11 @@
     "stylelint": "^8.3.0",
     "stylelint-config-property-sort-order-smacss": "^2.0.0",
     "stylelint-config-recommended-scss": "^2.0.0",
+    "stylelint-config-sass-guidelines": "^4.0.1",
     "stylelint-config-standard": "^17.0.0",
     "stylelint-csstree-validator": "^1.2.1",
+    "stylelint-declaration-block-no-ignored-properties": "^1.0.1",
+    "stylelint-find-rules": "^1.0.3",
     "stylelint-order": "^0.7.0",
     "stylelint-scss": "^2.1.0",
     "stylelint-selector-bem-pattern": "^2.0.0"
